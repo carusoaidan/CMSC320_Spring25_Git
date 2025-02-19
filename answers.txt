@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: git is the most widely used version control systems which enables tracking of changes to files and 
+easier collaboration among multiple people. It can be accessed via a command line. A repo contains all project files
+and thier complete revision history whic is stored in a .git subfolder. it also supports branching and merging
+allowing concurrent workflows and providing robust tools for handling conflicts.
