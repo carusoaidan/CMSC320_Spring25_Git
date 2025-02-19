@@ -4,3 +4,8 @@ Answer: git is the most widely used version control systems which enables tracki
 easier collaboration among multiple people. It can be accessed via a command line. A repo contains all project files
 and thier complete revision history whic is stored in a .git subfolder. it also supports branching and merging
 allowing concurrent workflows and providing robust tools for handling conflicts.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: one field that data science can be applied to is Finance. One example would be using historical data to 
+optimize investment portfolios and make the most money possible from using data as an inference.
